@@ -9,7 +9,7 @@ Each file is placed in their well named respective folders and each folder conta
 1. **Code files**: This is where you can find the notebooks that have been demonstrated in the module.
 2. **Dataset:** This is where all the datasets you will need to run the notebooks are kept.
 
-There are a total of 6 folders as mentioned below:
+There are a total of 5 folders as mentioned below:
 
 1. **Heteronyms Detection POS Tagging Use Case:** This folder contains the code files of heteronyms detection use case that have been demonstrated in PoS tagging session.
 2. **POS Tagging Case Study:** This folder contains the code files and dataset of features extraction using PoS tagging case study that have been demonstrated in PoS tagging session.
