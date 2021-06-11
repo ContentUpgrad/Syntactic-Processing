@@ -22,4 +22,4 @@ There are a total of 5 folders as mentioned below:
 How do I download all the files in github?
 
 
-![](FAQ1.png)
+![](./FAQ1.png)
