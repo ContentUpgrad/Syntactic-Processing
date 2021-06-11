@@ -22,3 +22,5 @@ There are a total of 5 folders as mentioned below:
 How do I download all the files in github?
 
 ![](FAQ1.PNG)
+
+You can either download the zipped files as shown or you can use `git clone repo_url` to clone the repository, if `git` is installed on your computer
