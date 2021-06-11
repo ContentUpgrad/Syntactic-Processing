@@ -8,6 +8,7 @@ Each file is placed in their well named respective folders and each folder conta
 
 1. **Code files**: This is where you can find the notebooks that have been demonstrated in the module.
 2. **Dataset:** This is where all the datasets you will need to run the notebooks are kept.
+3. **Commented code files:** This is where one can find the well commented code files to wrie their own code along with the videos.
 
 There are a total of 5 folders as mentioned below:
 
@@ -17,3 +18,6 @@ There are a total of 5 folders as mentioned below:
 4. **NER Code Demonstration:** This folder contains the code files of NER use case that have been demonstrated in NER and CRF session.
 5. **Custom NER Code Demonstration:** This folder contains the code files and dataset of CRF use case that have been demonstrated in NER and CRF session.
 
+### FAQs
+How do I download all the files in github?
+![](FAQ1.png)
