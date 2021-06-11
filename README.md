@@ -4,10 +4,11 @@ This README file is designed to navigate the **code files** and the **datasets**
 
 ### What is where?
 
-Each file is placed in their well named respective folders and each folder contains two folders:
+Each file is placed in their well named respective folders and each folder contains three folders:
 
 1. **Code files**: This is where you can find the notebooks that have been demonstrated in the module.
 2. **Dataset:** This is where all the datasets you will need to run the notebooks are kept.
+3. **Commented code files:** This is where one can find the well commented code files to wrie their own code along with the videos.
 
 There are a total of 5 folders as mentioned below:
 
